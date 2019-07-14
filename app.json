@@ -1,0 +1,11 @@
+{
+  "name": "CurrencyBot",
+  "description": "just Discord.js bot",
+  "repository": "https://github.com/Livitan/CurrencyBot",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": [
+    "node",
+    "discord.js",
+    "bot"
+  ]
+}
